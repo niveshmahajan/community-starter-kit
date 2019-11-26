@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+ Probot is an open source framework that allows you to create GitHub apps to automate your GitHub workflow. Probot is also an example of a great community.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Allows to create GitHub apps to automate GitHub workflow.
+2. Generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## Getting started
 
